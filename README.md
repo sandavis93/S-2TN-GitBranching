@@ -1,7 +1,4 @@
 # S-2TN-GitBranching
-
----
-
 ## What Each Team Member Does
 - Create a branch called "branch-yourname"
 - Add a new file, and make a change to it, or make a change to an existing file
